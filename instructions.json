@@ -1,0 +1,24 @@
+{
+  "main_script": "molecules_maker.js",
+  "icon": "img/icon.png",
+  "width": 1366,
+  "height": 768,
+  "animation": true,
+  "dependencies": [
+    "js/atom_maker.js",
+    "js/atom.js",
+    "js/auxiliar_button.js",
+    "js/counter_connections.js",
+    "js/molecule.js",
+    "js/molecule3D_builder.js",
+    "js/three.js",
+    "js/trash.js",
+    "js/language_button.js"
+  ],
+  "title": "Molecules Maker",
+  "version": "1.0.0",
+  "description": "A model to build organic molecules from atoms of oxygen, nitrogen, carbon and hydrogen.",
+  "keywords": ["molecules", "atoms", "builder", "maker", "3d", "visualization"],
+  "author": "Fernando Ferreira Cunha <fernandofc16@gmail.com>",
+  "license": "SAGE2-Software-License"
+}

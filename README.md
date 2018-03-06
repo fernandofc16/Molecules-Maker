@@ -10,9 +10,9 @@
 ## <a name="sage2"></a>SAGE2
 First of all you must install SAGE2 in order to use the application.
 
-The tutorial e archives for installation are available at http://sage2.sagecommons.org/.
+The tutorial and archives for installation are available at http://sage2.sagecommons.org/.
 
-Once intalled, configure and start the SAGE2 server side.
+Once installed, configure and start the SAGE2 server side.
 
 ## <a name="install"></a>Installation
 There are 3 ways of installing a new application in SAGE2 server:

@@ -1,17 +1,17 @@
 ## Molecules-Maker
 
-###A model to build organic molecules (currently 4 atoms available) and visualize them in a 3D perspective.
+### A model to build organic molecules (currently 4 atoms available) and visualize them in a 3D perspective.
 
 - [SAGE2](#sage2)
 - [Installation](#install)
 - [Application](#app)
 
-##<a name="sage2"></a>SAGE2
+## <a name="sage2"></a>SAGE2
 First of all you must install SAGE2 in order to use the application.
 The tutorial e archives for installation are available at http://sage2.sagecommons.org/.
 Once intalled, configure and start the SAGE2 server side.
 
-##<a name="install"></a>Installation
+## <a name="install"></a>Installation
 There are 3 ways of installing a new application in SAGE2 server:
 1) Go to your 'Documents/' folder system and find the directory 'SAGE2_Media/apps/', create a paste named 'molecules_maker' and copy the archives to this directory.
 2) With your device connected in SAGE2 panel server, click and drag a zipped file containing the archives in the SAGE2 application client side.
@@ -19,7 +19,7 @@ There are 3 ways of installing a new application in SAGE2 server:
 
 **Note:**Recommended to follow the first or second installation option.
 
-##<a name="app"></a>Application
+## <a name="app"></a>Application
 
 - **Language Button**
 You may toggle the language between english and portuguese.
@@ -54,6 +54,6 @@ Molecule marked in blue indicate the current molecule in 3D visualization.
 Use the left button of mouse (or any other device) to open the widget menu, it has 3 options by sign:
   - **+** Zoom In: the plus sign zoom in the 3D model visualization.
   - **-** Zoom Out: the minus sign zoom out the 3D model visualization.
-  - **⟲** Loop: toggle the button to change the 3D model from auto rotation to manual rotation.
+  - **⟳** Loop: toggle the button to change the 3D model from auto rotation to manual rotation.
   **Note:**In manual rotation mode click and drag on 3D canvas to rotate the model.
 ![Widget Menu](https://github.com/fernandofc16/Molecules-Maker/blob/master/screen_shots/widget_menu.jpg)

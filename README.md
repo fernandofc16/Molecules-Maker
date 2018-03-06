@@ -1,5 +1,5 @@
 ## Molecules Maker
-<img src="https://github.com/fernandofc16/Molecules-Maker/blob/master/img/icon.png" width="50">
+<img src="https://github.com/fernandofc16/Molecules-Maker/blob/master/img/icon.png" width="100">
 
 ### A model to build organic molecules (currently 4 atoms available) and visualize them in a 3D perspective.
 

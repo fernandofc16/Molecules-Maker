@@ -16,9 +16,9 @@ Once installed, configure and start the SAGE2 server side.
 
 ## <a name="install"></a>Installation
 There are 3 ways of installing a new application in SAGE2 server:
-1) Go to your 'Documents/' folder system and find the directory 'SAGE2_Media/apps/', create a paste named 'molecules_maker' and copy the archives to this directory.
+1) Go to your `Documents/` folder system and find the directory `SAGE2_Media/apps/`, create a paste named `molecules_maker` and copy the archives to this directory.
 2) With your device connected in SAGE2 panel server, click and drag a zipped file containing the archives in the SAGE2 application client side.
-3) Go to your SAGE2 installed folder in your system and find dorectory 'public/uploads/apps/', create a paste named 'molecules_maker' and copy the archives to this directory.
+3) Go to your SAGE2 installed folder in your system and find dorectory `public/uploads/apps/`, create a paste named `molecules_maker` and copy the archives to this directory.
 
 **Note:** Recommended to follow the first or second installation option.
 

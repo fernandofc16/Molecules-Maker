@@ -1,4 +1,4 @@
-## Molecules-Maker
+![Icon](https://github.com/fernandofc16/Molecules-Maker/blob/master/img/icon.png) ## Molecules-Maker
 
 ### A model to build organic molecules (currently 4 atoms available) and visualize them in a 3D perspective.
 
@@ -17,7 +17,7 @@ There are 3 ways of installing a new application in SAGE2 server:
 2) With your device connected in SAGE2 panel server, click and drag a zipped file containing the archives in the SAGE2 application client side.
 3) Go to your SAGE2 installed folder in your system and find dorectory 'public/uploads/apps/', create a paste named 'molecules_maker' and copy the archives to this directory.
 
-**Note:**Recommended to follow the first or second installation option.
+**Note:** Recommended to follow the first or second installation option.
 
 ## <a name="app"></a>Application
 
@@ -55,5 +55,5 @@ Use the left button of mouse (or any other device) to open the widget menu, it h
   - **+** Zoom In: the plus sign zoom in the 3D model visualization.
   - **-** Zoom Out: the minus sign zoom out the 3D model visualization.
   - **⟳** Loop: toggle the button to change the 3D model from auto rotation to manual rotation.
-  **Note:**In manual rotation mode click and drag on 3D canvas to rotate the model.
+  **Note:** In manual rotation mode click and drag on 3D canvas to rotate the model.
 ![Widget Menu](https://github.com/fernandofc16/Molecules-Maker/blob/master/screen_shots/widget_menu.jpg)

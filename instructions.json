@@ -20,5 +20,5 @@
   "description": "A model to build organic molecules from atoms of oxygen, nitrogen, carbon and hydrogen.",
   "keywords": ["molecules", "atoms", "builder", "maker", "3d", "visualization"],
   "author": "Fernando Ferreira Cunha <fernandofc16@gmail.com>",
-  "license": "SAGE2-Software-License"
+  "license": "MIT-License"
 }
